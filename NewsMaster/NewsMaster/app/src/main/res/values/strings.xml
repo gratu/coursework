@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsMaster</string>
+    <string name="action_settings">Подписки</string>
+    <string name="addFeed">add feed</string>
+    <string name="add">add</string>
+    <string name="dellete">del</string>
+</resources>
